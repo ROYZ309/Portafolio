@@ -1,0 +1,88 @@
+body{
+    background-color:plum;
+    text-align: center;
+}
+table{
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+}  
+tr{
+    text-align: center;
+}
+td{
+    border:2px solid bisque;
+}
+img{
+    width:50%;
+    text-align: justify;
+}  
+h1{
+    color: darkolivegreen;
+    text-align: center;
+}  
+.Album1{
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    text-align: left;
+}
+ol{
+    text-align: left;
+}
+.color{
+    color: brown;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    text-align: left;
+    color: darkslateblue;
+}
+h1{
+    font-family: sans-serif;
+}
+.h21{
+    font-family: sans-serif;
+    color: darkgreen;
+    text-align: left;
+}
+h3{
+    font-family: sans-serif; text-align: left;
+}
+.h22{
+    font-family: Arial, Helvetica, sans-serif;
+    color: cadetblue;
+    text-align: left;
+}
+.oli{
+    font-size: large;
+}
+tr{
+    background-color: aquamarine;
+}
+.tri{
+    background-color: darkseagreen;
+}
+.h23{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    text-align: left;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h24{
+    font-family: fantasy;
+    color: blue;
+}
+.h25{
+    font-family: Arial, Helvetica, sans-serif;
+    color: bisque;
+    text-align: left;
+}
+.img1{
+    width: 500;
+}

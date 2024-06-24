@@ -1,0 +1,38 @@
+h1{
+    font-family: sans-serif;
+    color: crimson;
+    text-align: center;
+}
+body{
+    background-color: lightsteelblue;
+    text-align: center;
+}
+h2{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h11{
+    font-family: monospace;
+    color: fuchsia;
+    text-align: center;
+}
+table{
+        width:50%;
+        margin-left: auto;
+        margin-right: auto;
+}  
+ tr{
+        text-align: center;
+        background-color: violet;
+}
+td{
+        border:2px solid bisque;
+}    
+img{
+    width: 30%;
+}
+.h22{
+    font-family: sans-serif;
+    color: rebeccapurple;
+    text-align: center;
+}

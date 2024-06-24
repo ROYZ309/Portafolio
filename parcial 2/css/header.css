@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: brown;
+}
+
+#header{
+    width: 100%;
+    height: auto;
+}
+
+#titulos-header{
+    font-size: 18px;
+    text-align: center;
+}
+
+#content-header{
+    width: 100%;
+    height: auto;
+    background-color: lightgreen;
+}
+
+#article-header{
+    font-size: 15px;
+    text-align: center;
+    width: 99%;
+}
